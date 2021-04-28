@@ -1,5 +1,7 @@
 # Decimal | Дроби
 
+![preview](/public/preview.png "Превью приложения")
+
 ## Project setup
 ```
 npm install
